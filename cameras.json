@@ -1,0 +1,12 @@
+[{
+    "camera_ip": "127.0.0.1",
+    "url": "C:/Users/Admin/Desktop/application/no_shift.MOV",
+    "stream_name": "No Shift",
+    "stream_id": 1
+},
+{
+    "camera_ip": "127.0.0.1",
+    "url": "C:/Users/Admin/Desktop/application/slight_shift.MOV",
+    "stream_name": "Slight shift",
+    "stream_id": 2
+}]
